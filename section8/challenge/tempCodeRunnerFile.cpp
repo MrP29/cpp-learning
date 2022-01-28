@@ -1,0 +1,2 @@
+
+    cout << "dimes    : " << number
